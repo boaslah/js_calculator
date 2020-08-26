@@ -17,6 +17,10 @@ body
 
     margin-bottom: -78px;
 }
+/* .parent {
+    display: grid;
+    place-items: center;
+} */
 .screen{
     width:80%;
 
@@ -26,7 +30,7 @@ body
 
     margin-bottom: 30px;
 
-    margin-left: 25px;
+    margin-left: 30px;
 
     text-align: right;
 
