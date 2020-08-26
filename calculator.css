@@ -3,417 +3,76 @@ body
     background-color:gray;
 }
 
+/* 1276* 392 */
+
 #centerdiv
 {
-    margin-left: 40%;
-
-    margin-right: 30%;
-
-    background-color: rgb(51, 50, 50);
-
-    border-radius: 30px;
-
-    margin-top: 50px;
-
-    margin-bottom: -78px;
-}
-/* .parent {
-    display: grid;
-    place-items: center;
-} */
-.screen{
-    width:80%;
-
-    padding:10px;
-
-    margin-top:40px;
-
-    margin-bottom: 30px;
-
+    width: 276px;
     margin-left: 30px;
-
+    margin-right: 50px;
+    background-color: rgb(51, 50, 50);
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-bottom: 78px;
+}
+.screen{
+    width: 220px;
+    padding:10px;
+    margin-top:40px;
+    margin-bottom: 30px;
+    margin-left: 20px;
     text-align: right;
-
     background-color:white;
-
     font-size: 30px;
-
     border:none;
-
     border-radius:10px;
-
     color: black
-
-    
 }
 
 #numbers1
 {
     margin-right: -10px;
 }
-
-#num1
+.nums
 {
     padding:10px;
-
-    width:25%;
-
+    width:100px;
     font-size: 20px;
-
     background-color:rgb(102, 98, 98);
-
     color: white;
-
     border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-
-}
-
-#num2
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:rgb(102, 98, 98);
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-}
-
-#num3 
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:rgb(102, 98, 98);
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-}
-
-#num4
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:rgb(102, 98, 98);
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-}
-
-#num5
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:rgb(102, 98, 98);
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-}
-
-#num6
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:rgb(102, 98, 98);
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-}
-
-#num7
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:rgb(102, 98, 98);
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-}
-
-#num8
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:rgb(102, 98, 98);
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-}
-
-#num9
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:rgb(102, 98, 98);
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-}
-
-#num0
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:rgb(102, 98, 98);
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
     border-radius:10px;
 }
 
 #clear
 {
     padding:10px;
-
-    width:265px;
-
+    width:300px;
     font-size: 20px;
-
     background-color: rgb(194, 75, 6);
-
     color: white;
-
     border-color: rgb(51, 50, 50);
-
     border-radius:10px;
+    /* margin-bottom: 10px; */
 }
-
-#point
+.oprations-style
 {
     padding:10px;
-
-    width:25%;
-
+    width:100px;
     font-size: 20px;
-
-    background-color:rgb(102, 98, 98);
-
+    background-color: black;
     color: white;
-
     border-color: rgb(51, 50, 50);
-
     border-radius:10px;
 }
-
-#add
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:black;
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-}
-
-#sub
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:black;
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-}
-
-#divi
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:black;
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-}
-
-#multi
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:black;
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-}
-
-#equal
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:black;
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-}
-
-#ans
-{
-    padding:10px;
-
-    width:25%;
-
-    font-size: 20px;
-
-    background-color:rgb(102, 98, 98);
-
-    color: white;
-
-    border-color: rgb(51, 50, 50);
-
-    border-radius:10px;
-
-}
-
-#div1
-{
-    display:flex;
-
-    margin-left: 30px;
-
-    margin-right: 30px;
-
-    
-}
-
-#div2
-{
-    display:flex;
-
-    margin-left: 30px;
-
-    margin-right: 30px;
-}
-
-#div3
-{
-    display:flex;
-
-    margin-left: 30px;
-
-    margin-right: 30px;
-}
-
-#div4
-{
-    display:flex;
-
-    margin-left: 30px;
-
-    margin-right: 30px;
-}
-
 #div5
 {
-    display:flex;
-
-    margin-left: 30px;
-
-    margin-right: 30px;
+    /* margin-bottom: 50px; */
 }
-
-#div6
+.div
 {
     display:flex;
-
     margin-left: 30px;
-
     margin-right: 30px;
 }
-
 
