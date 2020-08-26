@@ -8,8 +8,8 @@ body
 #centerdiv
 {
     width: 276px;
-    margin-left: 30px;
-    margin-right: 50px;
+    margin-left: 500px;
+    margin-right: 638px;
     background-color: rgb(51, 50, 50);
     border-radius: 30px;
     margin-top: 50px;
@@ -64,10 +64,6 @@ body
     color: white;
     border-color: rgb(51, 50, 50);
     border-radius:10px;
-}
-#div5
-{
-    /* margin-bottom: 50px; */
 }
 .div
 {
